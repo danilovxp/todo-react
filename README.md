@@ -22,8 +22,13 @@ Live Demo Link
 
 <p align="center">
 Contributions, issues, and feature requests are welcome!
+</p>
 
-Feel free to check the [issues page](https://github.com/danilovxp/todo-react/issues/new/choose).
+<p align="center">
+  Feel free to check the
+  <a href="https://github.com/danilovxp/todo-react/issues/new/choose">
+     issues page
+  </a>
 </p>
 
 <h2 align="center">Show your support</h2>
