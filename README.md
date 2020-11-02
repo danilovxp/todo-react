@@ -5,20 +5,29 @@
 </p>
 
 
-## Built With
+<h2 align="center">Built With</h2>
 
+<p align="center">
 - HTML, CSS,
 - React.js
+</p>
 
-## Live Demo
+<h2 align="center">Live Demo</h2>
 
-[Live Demo Link](https://vlads-todo.herokuapp.com/)
+<p align="center">
+<a align="center" href="https://vlads-todo.herokuapp.com/">
+Live Demo Link
+</a>
+</p>
 
-
+<p align="center">
 Contributions, issues, and feature requests are welcome!
 
 Feel free to check the [issues page](https://github.com/danilovxp/todo-react/issues/new/choose).
+</p>
 
-## Show your support
+<h2 align="center">Show your support</h2>
 
+<p align="center">
 Give a ⭐️ if you like this project!
+</p>
